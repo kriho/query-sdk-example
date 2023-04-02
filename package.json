@@ -1,0 +1,13 @@
+{
+  "name": "query-sdk-test",
+  "version": "1.0.0",
+  "main": "./main.js",
+  "dependencies": {
+    "query-sdk": "^1.0.0"
+  },
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "author": "Kristjan Hornung",
+  "license": "MIT"
+}
